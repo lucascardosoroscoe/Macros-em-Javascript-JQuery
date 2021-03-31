@@ -24,7 +24,7 @@ $(document).ready(function(){
         }
     }
     
-    $("#inpurPlaca").mask("AAA-0000", options)
+    $("#inputPlaca").mask("AAA-0000", options)
         
     $("#inputTelefone").mask("(00) 0000-00009")
     
